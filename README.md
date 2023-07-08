@@ -21,7 +21,7 @@ $dbname = "info"; <br>
 Also, all the tables that are used , are in the dbname "info" <br>
 Generally , they have been used good practics of PHP connection with the use of includes for header and footer.<br>
 
-Screenshots or Demo: Include screenshots or a demo section to visually showcase your website. Capture key pages or functionalities to give viewers an idea of the user interface and user experience.
+Screenshots:
 # Home page header: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/29d38e33-3f65-4a26-abb4-5d78535adb2e)
 # Home page body: 
