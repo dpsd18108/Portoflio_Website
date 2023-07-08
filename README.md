@@ -22,62 +22,63 @@ Also, all the tables that are used , are in the dbname "info" <br>
 Generally , they have been used good practics of PHP connection with the use of includes for header and footer.<br>
 
 Screenshots:
-# Home page header: 
+Home page header: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/756a8a34-e0fa-424f-80fe-fad463e181f4)
 
-# Home page body: 
+Home page body: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/39b24fcd-81ac-499f-870e-4bd3790eed9a)
 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/e1af3124-90ea-46d2-abcc-406cdf69b00a)
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/5a97ef5b-adc9-4500-8cdd-ec15185e6b8e)
 
-# Home page footer: 
+Home page footer: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/685f88f5-0f16-4db9-9639-dfd049e35a78)
 
-# Share artwork form:
+ Share artwork form:
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/607359f3-1ff6-443b-8938-f0443de49d76)
-
-# Offer form: 
+Offer form: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/d0a9aad2-b2be-4b25-aa0e-244615218559)
 
-# You can get in the upload of offers through admin section: 
+ You can get in the upload of offers through admin section: 
 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/cb4adb93-fa0a-44b0-939e-ffc030458109)
 
-# How the offers look: 
+ How the offers look: 
 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/9e26c305-f781-42a5-b171-d009de0fec18)
 
 
 
-# Category for the data of Share artwork form: 
+Category for the data of Share artwork form: 
 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/a0b58931-7a7a-4266-ab77-e0f2d779c0ec)
 
-# When you click on category you see the uploads of people of the specific category: 
+ When you click on category you see the uploads of people of the specific category: 
 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/3376953c-02f4-4740-8e50-9309389dc087)
 
-# When you click on a specific project you can see what the users write on the details : 
+ When you click on a specific project you can see what the users write on the details : 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/ebbbf72c-8eda-45e2-85f5-4481ca910aa0)
 
-# Sign up form: 
+ Sign up form: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/6f372bcf-1b3f-4d98-bef6-4b0259f8552d)
 
-# When you sign up , the system saves your details at the database and change the front end : 
+When you sign up , the system saves your details at the database and change the front end : 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/a0eabe1c-fb84-4475-b5f6-3fd821c22a8a)
 
-# Log in form: 
+ Log in form: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/af43c6e8-a7da-40b7-b18a-7e798a2d9cdb)
 
 
 
 
 
-# Usage: Users can log in /log out , can upload artworks and see them on categories and also to send their offers. 
+# Usage:
+Users can log in /log out , can upload artworks and see them on categories and also to send their offers. 
 All of the data are saved to the database . 
 
-# Known Issues and Limitations: At upload of photo , the size has to be smaller than 2 MB.
+# Known Issues and Limitations: 
+At upload of photo , the size has to be smaller than 2 MB.
 
 
 
