@@ -2,9 +2,11 @@
 
 # Project Overview:
 The project is made for University purpose, where we should make a Portfolio website which has the goal of showing our projects and has to be hosted on University server and also to get data from the clients and deploy them somewhere in the website.
+
 As my thought was to give them the possibility to upload design works to enlarge the design community .
 So from the link https://project1.syros.aegean.gr/~dpsd18108/portfolio/GeoMano/Upload_image.php the client can upload their design work and automatically with their choice of category at the upload form, they can see their design work at the categories https://project1.syros.aegean.gr/~dpsd18108/portfolio/GeoMano/categories.php when they click on the specific category they wanted their design work. 
 Also, the log in/sign up form work properly and check the details for your account . 
+
 For ending, the client can uploads their offer through https://project1.syros.aegean.gr/~dpsd18108/portfolio/GeoMano/Upload_image.php and if you want as admin to see them you can sign in from Admin Section. 
 
 # Technologies Used: 
