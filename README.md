@@ -23,7 +23,8 @@ Generally , they have been used good practics of PHP connection with the use of 
 
 Screenshots:
 # Home page header: 
-![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/29d38e33-3f65-4a26-abb4-5d78535adb2e)
+![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/756a8a34-e0fa-424f-80fe-fad463e181f4)
+
 # Home page body: 
 ![image](https://github.com/dpsd18108/Portoflio_Website/assets/101745590/39b24fcd-81ac-499f-870e-4bd3790eed9a)
 
